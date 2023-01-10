@@ -188,57 +188,25 @@ portfolio()
 
 
 //-----------------------------------LINKING THE WORKS---------------------
-//halloween👻👻
-document.getElementById("halloween").onclick = function () {
-  location.href = "../project-content/responsive-halloween-website-main/index.html";
-};
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
-//hospital🤒
+
+//nftmarketplace
 document.getElementById("nftMarketplace").onclick = function () {
   location.href = "https://nft-marketplace-three-eosin.vercel.app/";
 };
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
-//covid websites😷
-document.getElementById("covid").onclick = function () {
-  location.href = "../project-content/covid-19website/index.html";
-};
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
-//petshop 😸
-document.getElementById("pet-shop").onclick = function () {
-  location.href = "../project-content/petshop/index.html";
-};
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
 
-//delivery😎
-document.getElementById("delivery").onclick = function () {
-  location.href = "../project-content/responsive-website-delivery-main/index.html";
+//voting app
+document.getElementById("votingApp").onclick = function () {
+  location.href = "https://github.com/Riocodex/Voting-app-frontend";
 };
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
 
-//food🎂🍔
-document.getElementById("food").onclick = function () {
-  location.href = "../project-content/foodwebsite/index.html";
+//Netflix 😸
+document.getElementById("netflix").onclick = function () {
+  location.href = "https://github.com/Riocodex/Netflix__";
 };
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
-//clock⌚⌚
-document.getElementById("clock").onclick = function () {
-  location.href = "../project-content/clock/index.html";
-};
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
+
+
+
+
 ///-----------------------End of links--------------------------------
 
 
