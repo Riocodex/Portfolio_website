@@ -1,3 +1,8 @@
+/////--------------get date-----------------------------------
+let year = new Date().getFullYear(); 
+console.log("year",year);
+document.getElementById('yearDate').textContent = `${year} Rio`
+
 // ---------------------------------navigation menu---------------------------------------------
 function naviMenu(){
   const hamburgerBtn=document.querySelector(".hamburger-btn"),
