@@ -1,7 +1,6 @@
 /////--------------get date-----------------------------------
 let year = new Date().getFullYear(); 
-console.log("year",year);
-document.getElementById('yearDate').textContent = `${year} Rio`
+document.getElementById('yearDate').textContent = ` \u00A9 ${year} Rio`
 
 // ---------------------------------navigation menu---------------------------------------------
 function naviMenu(){
