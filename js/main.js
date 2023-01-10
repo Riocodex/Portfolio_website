@@ -196,8 +196,8 @@ window.onclick = (e)=>{
   console.log(e.path[0].id);
 }
 //hospital🤒
-document.getElementById("hospital").onclick = function () {
-  location.href = "../project-content/hospitalwebsite/index.html";
+document.getElementById("nftMarketplace").onclick = function () {
+  location.href = "https://nft-marketplace-three-eosin.vercel.app/";
 };
 window.onclick = (e)=>{
   console.log(e.path[0].id);
