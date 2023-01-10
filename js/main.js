@@ -173,13 +173,13 @@ buttons.forEach(items =>{
 
 
 // -------------portfolio FILTER AND POPUP------------------------------------
-// function portfolio(){
-//     const filterContainer=document.querySelector(".portfolio-filter"),
-//     portfolioItemsContainer=document.querySelector(".portfolio-items"),
-//     portfolioItems=document.querySelectorAll(".portfolio-item");
-//     console.log(portfolioItems)
-// }
-// portfolio()
+function portfolio(){
+    const filterContainer=document.querySelector(".portfolio-filter"),
+    portfolioItemsContainer=document.querySelector(".portfolio-items"),
+    portfolioItems=document.querySelectorAll(".portfolio-item");
+    console.log(portfolioItems)
+}
+portfolio()
 
 
 
