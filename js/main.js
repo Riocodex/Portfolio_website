@@ -188,7 +188,13 @@ portfolio()
 
 
 //-----------------------------------LINKING THE WORKS---------------------
-
+//halloween👻👻
+document.getElementById("halloween").onclick = function () {
+  location.href = "../project-content/responsive-halloween-website-main/index.html";
+};
+window.onclick = (e)=>{
+  console.log(e.path[0].id);
+}
 //nftmarketplace
 document.getElementById("nftMarketplace").onclick = function () {
   location.href = "https://nft-marketplace-three-eosin.vercel.app/";
