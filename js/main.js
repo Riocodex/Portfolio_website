@@ -190,7 +190,7 @@ portfolio()
 //-----------------------------------LINKING THE WORKS---------------------
 //halloween👻👻
 document.getElementById("halloween").onclick = function () {
-  location.href = "../project-content/responsive-halloween-website-main/index.html";
+  location.href = "https://halloween-eight.vercel.app/";
 };
 window.onclick = (e)=>{
   console.log(e.path[0].id);
