@@ -210,7 +210,10 @@ document.getElementById("netflix").onclick = function () {
   location.href = "https://github.com/Riocodex/Netflix__";
 };
 
-
+//Crypto Exchange Apps 😸
+document.getElementById("cryptoExchange").onclick = function () {
+  location.href = "https://crypto-exchange-app-xi.vercel.app/";
+};
 
 
 
