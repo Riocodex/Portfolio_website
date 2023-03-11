@@ -215,6 +215,11 @@ document.getElementById("cryptoExchange").onclick = function () {
   location.href = "https://crypto-exchange-app-xi.vercel.app/";
 };
 
+//rethestate
+document.getElementById("rethestate").onclick = function () {
+  location.href = "https://rethestate.vercel.app/";
+};
+
 
 
 
