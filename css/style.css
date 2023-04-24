@@ -811,6 +811,7 @@ about section
      transition: all 0.3s ease;
 
  }
+ 
  .service-section .service-item-inner:hover .icon{
       box-shadow:var(--inner-shadow-0);
  }
