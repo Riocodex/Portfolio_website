@@ -83,9 +83,9 @@ let education = document.querySelector('.education');
 let buttons = document.querySelectorAll('.tab-item')
 let array = [skill, experience, education]
 let skillArray = []
-array.forEach(items =>{
-  items.style.transition = '0.5s'
-})
+// array.forEach(items =>{
+//   items.style.transition = '0.5s'
+// })
 // Functions
 const creatShadow = (items, arr)=>{
     items.classList.add('active')

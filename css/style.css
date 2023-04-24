@@ -558,6 +558,7 @@ about section
 }
 .about-section .about-img .social-links{
     margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
 }
 .about-section .about-img .social-links a{
