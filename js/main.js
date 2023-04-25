@@ -189,12 +189,12 @@ portfolio()
 
 //-----------------------------------LINKING THE WORKS---------------------
 //halloween👻👻
-document.getElementById("halloween").onclick = function () {
-  location.href = "https://halloween-eight.vercel.app/";
-};
-window.onclick = (e)=>{
-  console.log(e.path[0].id);
-}
+// document.getElementById("halloween").onclick = function () {
+//   location.href = "https://halloween-eight.vercel.app/";
+// };
+// window.onclick = (e)=>{
+//   console.log(e.path[0].id);
+// }
 //nftmarketplace
 document.getElementById("nftMarketplace").onclick = function () {
   location.href = "https://nft-marketplace-three-eosin.vercel.app/";
