@@ -187,43 +187,43 @@ portfolio()
 
 
 
-//-----------------------------------LINKING THE WORKS---------------------
-//halloween👻👻
-// document.getElementById("halloween").onclick = function () {
-//   location.href = "https://halloween-eight.vercel.app/";
+// //-----------------------------------LINKING THE WORKS---------------------
+// //halloween👻👻
+// // document.getElementById("halloween").onclick = function () {
+// //   location.href = "https://halloween-eight.vercel.app/";
+// // };
+// // window.onclick = (e)=>{
+// //   console.log(e.path[0].id);
+// // }
+// //nftmarketplace
+// document.getElementById("nftMarketplace").onclick = function () {
+//   location.href = "https://nft-marketplace-three-eosin.vercel.app/";
 // };
-// window.onclick = (e)=>{
-//   console.log(e.path[0].id);
-// }
-//nftmarketplace
-document.getElementById("nftMarketplace").onclick = function () {
-  location.href = "https://nft-marketplace-three-eosin.vercel.app/";
-};
 
-//voting app
-document.getElementById("votingApp").onclick = function () {
-  location.href = "https://github.com/Riocodex/Voting-app-frontend";
-};
+// //voting app
+// document.getElementById("votingApp").onclick = function () {
+//   location.href = "https://github.com/Riocodex/Voting-app-frontend";
+// };
 
-//Netflix 😸
-document.getElementById("netflix").onclick = function () {
-  location.href = "https://github.com/Riocodex/Netflix__";
-};
+// //Netflix 😸
+// document.getElementById("netflix").onclick = function () {
+//   location.href = "https://github.com/Riocodex/Netflix__";
+// };
 
-//Crypto Exchange Apps 😸
-document.getElementById("cryptoExchange").onclick = function () {
-  location.href = "https://crypto-exchange-app-xi.vercel.app/";
-};
+// //Crypto Exchange Apps 😸
+// document.getElementById("cryptoExchange").onclick = function () {
+//   location.href = "https://crypto-exchange-app-xi.vercel.app/";
+// };
 
-//rethestate
-document.getElementById("rethestate").onclick = function () {
-  location.href = "https://rethestate.vercel.app/";
-};
+// //rethestate
+// document.getElementById("rethestate").onclick = function () {
+//   location.href = "https://rethestate.vercel.app/";
+// };
 
 
 
 
-///-----------------------End of links--------------------------------
+// ///-----------------------End of links--------------------------------
 
 
 //-----------------testimonial slider---------------------------------
